@@ -1,6 +1,13 @@
 body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   div {
     main {
+      padding: 20px;
+      background-color: bisque;
       div {
         .true {
           color: red;
